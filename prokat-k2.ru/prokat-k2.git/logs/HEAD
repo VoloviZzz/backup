@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 29abc42761e6a15ff08eb50e7fbcd561ecef1b7f webmaster <webmaster@prokat-k2.ru> 1478160075 +0300	clone: from git@80.244.36.57:/home/git/www/prokat-k2.git
+29abc42761e6a15ff08eb50e7fbcd561ecef1b7f 5117f8e25cd00edb940f06dec9a60ddf641c5075 webmaster <webmaster@prokat-k2.ru> 1478193315 +0300	commit: prod
+5117f8e25cd00edb940f06dec9a60ddf641c5075 a87ccc1d4889d49fb8a3650318d61cfd383cf38b server <n3sh@rambler.ru> 1478250746 +0300	pull k2 master: Fast-forward
+a87ccc1d4889d49fb8a3650318d61cfd383cf38b 41fdc54e7b12b204e84ff2bcc49205a2db5a076f server <n3sh@rambler.ru> 1478321698 +0300	commit: pass
+41fdc54e7b12b204e84ff2bcc49205a2db5a076f 4e867820387a632e77a3c6fefca310baae67f921 server <n3sh@rambler.ru> 1478322396 +0300	pull k2 master: Fast-forward
+4e867820387a632e77a3c6fefca310baae67f921 e501e4eeb5f01cd4b619d13cec6bd14cf71b405e server <n3sh@rambler.ru> 1479227573 +0300	pull k2 master: Fast-forward
+e501e4eeb5f01cd4b619d13cec6bd14cf71b405e a67352e0ddc477e6925cbeaf56fcf537bb05b180 server <n3sh@rambler.ru> 1479227937 +0300	commit: log

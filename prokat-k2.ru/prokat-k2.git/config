@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "k2"]
+	url = git@80.244.36.57:/home/git/www/prokat-k2.git
+	fetch = +refs/heads/*:refs/remotes/k2/*
+[branch "master"]
+	remote = k2
+	merge = refs/heads/master
